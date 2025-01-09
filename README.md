@@ -93,17 +93,6 @@ The Power BI dashboard includes:
    - Analyzed size preferences
    - Identified top-performing products
 
-## 📁 Repository Structure
-```
-└── pizza_sales_analysis/
-    ├── data/
-    │   └── pizza_sales.xlsx
-    ├── sql_queries/
-    │   └── analysis_queries.sql
-    ├── powerbi/
-    │   └── pizza_sales_dashboard.pbix
-    └── documentation/
-        └── analysis_documentation.md
 ```
 
 ## 🛠️ Setup and Usage
@@ -116,5 +105,3 @@ The Power BI dashboard includes:
 ## 🤝 Contributing
 Feel free to fork this project and add your own analyses or improvements. Pull requests are welcome!
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
